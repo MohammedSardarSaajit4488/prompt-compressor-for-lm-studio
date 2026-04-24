@@ -12,8 +12,8 @@ from typing import List
 
 from openai import OpenAI
 
-BASE_URL = "http://192.168.1.8:1234/v1"
-MODEL_NAME = "google/gemma-3-1b"
+BASE_URL = "address of llm/avaliable at(local server)"
+MODEL_NAME = "Name of llm"
 OUTPUT_DIR = Path("compressed")
 MAX_FILE_SIZE = 500_000
 
