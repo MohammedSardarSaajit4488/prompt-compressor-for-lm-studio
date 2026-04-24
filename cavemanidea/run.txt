@@ -1,0 +1,3 @@
+to run:
+1. open location in terminal
+2. run : python compress.py context/project.md
